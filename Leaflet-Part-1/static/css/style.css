@@ -10,3 +10,9 @@ body,
 html {
   height: 100%;
 }
+
+/* Set width of color bars in legend and remove bullets from list. */
+.legend-div{
+  min-width: 90px;
+  list-style-type: none;
+}
